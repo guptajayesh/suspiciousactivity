@@ -18,4 +18,3 @@ HawkEye is a Suspicious Activity Recognition platform that uses the C3D Model to
   - ffmpeg
   - OpenCV
 
-# suspiciousactivity
